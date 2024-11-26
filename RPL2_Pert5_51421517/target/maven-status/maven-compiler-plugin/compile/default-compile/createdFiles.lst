@@ -1,0 +1,4 @@
+com\mahasiswa\model\ModelMahasiswa.class
+com\mahasiswa\repository\MahasiswaRepository.class
+com\mahasiswa\controller\MahasiswaController.class
+com\mahasiswa\RPL2_Pert5_51421517.class
